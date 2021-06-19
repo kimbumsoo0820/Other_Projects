@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/edit_add_event"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="운동종목을  입력하세요."/>
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/btn_add_event"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="추가"/>
+
+
+
+
+</LinearLayout>

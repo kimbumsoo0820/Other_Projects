@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536492719129",
+    "project_id": "healthstopwatch-f4a3b",
+    "storage_bucket": "healthstopwatch-f4a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536492719129:android:b3239b7a0245ddbf30fe88",
+        "android_client_info": {
+          "package_name": "com.example.healthtimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536492719129-vov5avpd6h2cs9veb8smp495c98d2vn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9DCzhpZv8SrWL73QKmubDCnqbsmTGj4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536492719129-vov5avpd6h2cs9veb8smp495c98d2vn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

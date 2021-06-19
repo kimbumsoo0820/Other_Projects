@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.healthtimer">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HealthTimer">
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Signup"/>
+        <activity android:name=".DB_Stopwatch"/>
+        <activity android:name=".Normal_Stopwatch"/>
+        <activity android:name=".login_2"/>
+        <activity android:name=".Signup_2"/>
+        <activity android:name=".Add_event_main"/>
+        <activity android:name=".Add_events_test"/>
+        <activity android:name=".Input_event_stopwatch"/>
+        <activity android:name=".Add_events"/>
+        <activity android:name="activity.BasicActivity"/>
+        <activity android:name=".Event_spinner_list"/>
+
+
+
+
+
+    </application>
+
+</manifest>
