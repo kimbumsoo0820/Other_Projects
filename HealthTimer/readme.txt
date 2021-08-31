@@ -9,7 +9,9 @@
 
 
 1. 메인화면
-<img width ="461" alt="KakaoTalk_20210831_161009287" src="https://user-images.githubusercontent.com/58503562/131459057-32bf9d1b-d179-4356-8850-e92be5fd52d3.jpg">
+<img width ="80%" src="https://user-images.githubusercontent.com/58503562/131459057-32bf9d1b-d179-4356-8850-e92be5fd52d3.jpg">
+
+
 
 ![KakaoTalk_20210831_161009287](https://user-images.githubusercontent.com/58503562/131459057-32bf9d1b-d179-4356-8850-e92be5fd52d3.jpg)
 
