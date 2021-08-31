@@ -2,38 +2,47 @@
 내가 추가하고 싶은 기능이 있었으면 싶었다.
 그래서 그것을 바로 어플리케이션으로 만들기로 했다!
 
+>원했던 기능 : 
+>1. 맨몸운동을 하다보면 세트수가 많아진다! 그러다보면 내가 몇세트 까지 진행했는지 까먹을 수 있다! 그것을 한눈에 알기 쉽게 나타내는 기능이 필요해...
+>2. 운동 종목별로 데이터를 보관하고 싶었다!
+>3. 운동 종목별로 운동시간을 점진적으로 단축하여 운동 효율을 극대화 하기 위해 비교할 수 있도록 기록을 볼 수 있어야 한다!
+ 
+
 어플리케이션 이름 : Health Stopwatch (timer)
-기능 : 운동 종목을 추가하여 각 종목마다 운동 시간을 저장소에 저장할 수 있다.(FireBase)
+주요 기능 : 운동 종목을 추가하여 각 종목마다 운동 시간을 저장소에 저장할 수 있다.(FireBase) / 세트수를 카운트 한다.
 기여도 : 100%
 
 
 
-1. 메인화면
+# **1. 메인화면**
 <img width ="40%" src="https://user-images.githubusercontent.com/58503562/131459057-32bf9d1b-d179-4356-8850-e92be5fd52d3.jpg">
 
+메인화면으로 여러가지 기능을 선택할 수 있다!  
 
 
+ # **2. 현재 추가된 운동 종목 확인**
+
+<img width ="40%" src="https://user-images.githubusercontent.com/58503562/131459191-b704fb0b-e768-45ae-9004-bd90b0ef8a73.jpg">
+
+현재 데이터베이스 안에 어떤 데이터가 들어가 있는지 확인 가능하다! 우측 상단의 추가 버튼을 누르면 추가 가능.
+
+# **3. 운동종목 추가**
+<img width ="40%" src="https://user-images.githubusercontent.com/58503562/131459215-c512eba6-9dda-47e1-8368-e75d11634946.jpg">
+
+추가 기능이다! 원하는 이름을 기재한 후 추가 버튼을 누르면 데이터베이스에 아름답게 저장된다!
+
+# **4. 스톱워치 실행 전 운동종목, 세트수, 휴식 시간 설정**
+<img width ="40%" src="https://user-images.githubusercontent.com/58503562/131459237-36a2f739-cf32-493d-ab3e-8d359f829ec9.jpg">
+
+메인화면에서 종목별 스톱워치 실행을 누르면 현재 추가된 운동 종목들을 선택하고, 세트수, 휴식시간 등을 지정할 수 있다!!
+
+# **5. 스톱워치 실행**
+<img width ="40%" src="https://user-images.githubusercontent.com/58503562/131459162-3cca5979-3aa3-48ee-a987-d88a8ba7f011.jpg">
+
+시작 버튼을 누르면 버튼 두개의 텍스트가 바뀌고, 각 기능에 맞게 변한다. 휴식을 누르게 되면 현재 남아있는 세트수가 줄어들고, 버튼을 누른 시간기록이 표시된다.
 
 
+# **6. 종목별 운동시간 데이터 확인**
+<img width ="40%" src="https://user-images.githubusercontent.com/58503562/131459283-967ca337-c0c0-451b-ad39-4bf050afdb20.jpg">
 
-2. 현재 추가된 운동 종목 확인
-
-![KakaoTalk_20210831_161009287_04](https://user-images.githubusercontent.com/58503562/131459191-b704fb0b-e768-45ae-9004-bd90b0ef8a73.jpg)
-
-
-3. 종목 선택 및 세트수, 휴식시간 지정
-
-![KakaoTalk_20210831_161009287_05](https://user-images.githubusercontent.com/58503562/131459215-c512eba6-9dda-47e1-8368-e75d11634946.jpg)
-
-
-4. 스톱워치 실행
-
-![KakaoTalk_20210831_161009287_01](https://user-images.githubusercontent.com/58503562/131459237-36a2f739-cf32-493d-ab3e-8d359f829ec9.jpg)
-
-5. 종목별 운동시간 데이터 확인
-
-![KakaoTalk_20210831_161009287_02](https://user-images.githubusercontent.com/58503562/131459162-3cca5979-3aa3-48ee-a987-d88a8ba7f011.jpg)
-
-
-6. 운동종목 추가
-![KakaoTalk_20210831_161009287_03](https://user-images.githubusercontent.com/58503562/131459283-967ca337-c0c0-451b-ad39-4bf050afdb20.jpg)
+내가 운동을 얼마나 했는지 확인이 필요하다고 생각했다! 쌓여가는 시간들을 보면 뿌듯하다!!
